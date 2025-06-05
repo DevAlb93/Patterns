@@ -1,3 +1,21 @@
+## Code Refactor 
+## Magic Strings
+![image](https://github.com/user-attachments/assets/5f3d4e23-e1f5-43ae-bac3-810878b567eb)
+![image](https://github.com/user-attachments/assets/404b5c9a-e791-49bb-b490-5d30bed89df8)
+![image](https://github.com/user-attachments/assets/334e2f7d-fc89-43a7-ad28-661e6dc06944)
+
+
+
+
+
+
+
+
+
+
+
+
+
 Add of Fluent Builder Pattern
 
 🔧 Why Do We Need the Fluent API Building Pattern?
