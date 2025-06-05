@@ -4,6 +4,8 @@
 ![image](https://github.com/user-attachments/assets/404b5c9a-e791-49bb-b490-5d30bed89df8)
 ![image](https://github.com/user-attachments/assets/334e2f7d-fc89-43a7-ad28-661e6dc06944)
 
+## Code Dublication
+![image](https://github.com/user-attachments/assets/51d79f02-d8a6-4584-87bf-ee1652b50f39)
 
 
 
