@@ -7,6 +7,14 @@
 ## Code Dublication
 ![image](https://github.com/user-attachments/assets/51d79f02-d8a6-4584-87bf-ee1652b50f39)
 
+## Writing Clean function
+- If an method receives an collection which can not be modified we need to use the most specific IEnumerable
+instead of IList
+- Method should not have more than three parameters.
+  ![image](https://github.com/user-attachments/assets/0d91d287-58b0-4758-bdd6-e2eff28ab1ce)
+  ![image](https://github.com/user-attachments/assets/d65ca030-755e-468a-b927-f60b8207a2a2)
+  ![image](https://github.com/user-attachments/assets/e0700e0a-8f4e-4172-b995-820dcb2bf30b)
+
 
 
 
