@@ -16,6 +16,8 @@ instead of IList
   ![image](https://github.com/user-attachments/assets/e0700e0a-8f4e-4172-b995-820dcb2bf30b)
 
 
+## Classes vs Struct
+![image](https://github.com/user-attachments/assets/16abdfab-1893-4f58-a0e5-e2ab61c50276)
 
 
 
